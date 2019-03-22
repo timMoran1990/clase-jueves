@@ -1,0 +1,9 @@
+c:\users\lab3\documents\visual studio 2013\Projects\solucionvacia\capaPresentacion\bin\Debug\capaPresentacion.exe.config
+c:\users\lab3\documents\visual studio 2013\Projects\solucionvacia\capaPresentacion\bin\Debug\capaPresentacion.exe
+c:\users\lab3\documents\visual studio 2013\Projects\solucionvacia\capaPresentacion\bin\Debug\capaPresentacion.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\solucionvacia\capaPresentacion\obj\Debug\capaPresentacion.csprojResolveAssemblyReference.cache
+c:\users\lab3\documents\visual studio 2013\Projects\solucionvacia\capaPresentacion\obj\Debug\capaPresentacion.Properties.Resources.resources
+c:\users\lab3\documents\visual studio 2013\Projects\solucionvacia\capaPresentacion\obj\Debug\capaPresentacion.csproj.GenerateResource.Cache
+c:\users\lab3\documents\visual studio 2013\Projects\solucionvacia\capaPresentacion\obj\Debug\capaPresentacion.exe
+c:\users\lab3\documents\visual studio 2013\Projects\solucionvacia\capaPresentacion\obj\Debug\capaPresentacion.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\solucionvacia\capaPresentacion\obj\Debug\capaPresentacion.FrmPrincipal.resources
